@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/fish_mart/static/css/main.99eee359.css",
+    "main.js": "/fish_mart/static/js/main.2ec6b5cf.js",
+    "static/media/side.jpg": "/fish_mart/static/media/side.9cbe83881faa36ae5c29.jpg",
+    "index.html": "/fish_mart/index.html",
+    "main.99eee359.css.map": "/fish_mart/static/css/main.99eee359.css.map",
+    "main.2ec6b5cf.js.map": "/fish_mart/static/js/main.2ec6b5cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99eee359.css",
+    "static/js/main.2ec6b5cf.js"
+  ]
+}
